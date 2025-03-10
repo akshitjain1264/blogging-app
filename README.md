@@ -1,4 +1,7 @@
-
+# Deployed link of the app
+- Vercel - https://blogging-app-two-kappa.vercel.app/
+  
+# For local setup in your pc
 # How to Run React + Vite Frontend
 
 - Type on command line - npm run dev
