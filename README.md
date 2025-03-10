@@ -4,7 +4,7 @@
 # For local setup in your pc
 # How to Run React + Vite Frontend
 
-- Type on command line - npm run dev
+- Type on command line - `npm run dev`
 
 # How to Run backend
 
